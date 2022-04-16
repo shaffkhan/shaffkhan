@@ -1,14 +1,14 @@
 Hi 👋 My name is shaff khan
 ===========================
 
-full stack developer
+i am a full stack developer
 --------------------
 
 I would like to explore myself as a Hard Working person in all field of life. I have worked with different kinds of projects in my career, including data base , web development and machine learning. I want to work along with the emerging alive ideas.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [shaffkhany@gmail.com](mailto:shaffkhany@gmail.com)
-* 🤝  I'm open to collaborating on full stack web development , frontend development (react js , HTML5 , CSS3 , BOOTSTRAP 5 , jQuery , wordpress ) , backend development ( node JS , mongoDB , MYSQL )
+* 🤝  I'm open to collaborating on full stack web development , frontend development (react js , HTML5 , CSS3 , BOOTSTRAP 5 , jQuery , wordpress ) , backend development ( node JS , PHP , mongoDB , MYSQL )
 
 ### Skills
 
