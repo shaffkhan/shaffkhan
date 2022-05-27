@@ -1,4 +1,4 @@
-Hi 👋 My name is shaff khan
+Hi 👋 My name is SHAFF KHAN.
 ===========================
 
 Full Stack Software Engineer enthusiast & language aficionado.
