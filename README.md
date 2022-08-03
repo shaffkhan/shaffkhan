@@ -8,7 +8,7 @@ I would like to explore myself as a Hard Working person in all field of life. I 
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [shaffkhany@gmail.com](mailto:shaffkhany@gmail.com)
-* 🤝  I'm open to collaborating on full stack web development , frontend development (react js , HTML5 , CSS3 , BOOTSTRAP 5 , jQuery , wordpress ) , backend development ( node JS , PHP , mongoDB , MYSQL )
+* 🤝  I'm open to collaborating on full stack web development , frontend development (react js , HTML5 , CSS3 , BOOTSTRAP 5 , jQuery , wordpress ) , backend development ( node JS , PHP , mongoDB , MYSQL , postgresql )
 
 ### Skills
 
