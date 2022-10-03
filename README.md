@@ -1,7 +1,7 @@
 Hi 👋 My name is SHAFF KHAN.
 ===========================
 
-Backend NodeJS engineer & language aficionado.
+MERN stack developer & language aficionado.
 --------------------
 
 I would like to explore myself as a Hard Working person in all field of life. I have worked with different kinds of projects in my career, including data base , web development and machine learning. I want to work along with the emerging alive ideas.
