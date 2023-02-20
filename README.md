@@ -8,7 +8,7 @@ I would like to explore myself as a Hard Working person in all field of life.I h
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [shaffkhany@gmail.com](mailto:shaffkhany@gmail.com)
-* 🤝  I'm open to collaborating on full stack web development , frontend development (react JS , Next JS ) , backend development ( NodeJS , nestJS , mongoDB , MYSQL , postgresql )
+* 🤝  I'm open to collaborating on full stack web development , frontend development (react JS , Next JS ) , backend development ( NodeJS , nestJS , mongoDB , MYSQL , postgresql)
 
 ### Skills
 
