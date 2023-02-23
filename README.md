@@ -6,7 +6,7 @@ MERN stack developer & language aficionado.
 
 I would like to explore myself as a Hard Working person in all field of life.I have worked with different kinds of projects in my career, including data base , web development and machine learning. I want to work along with the emerging alive ideas.
 
-* 🌍  I'm based in Pakistan
+* 🌍  I'm based in Pakistan.
 * ✉️  You can contact me at [shaffkhany@gmail.com](mailto:shaffkhany@gmail.com)
 * 🤝  I'm open to collaborating on full stack web development , frontend development (react JS , Next JS ) , backend development ( NodeJS , nestJS , mongoDB , MYSQL , postgresql)
 
