@@ -1,7 +1,7 @@
 Hi 👋 My name is SHAFF KHAN.
 ===========================
 
-MERN stack developer & language aficionado.
+Full stack developer & language aficionado.
 --------------------
 
 I am a solution-driven MERN stack Developer familiar with a wide range of programming utilities and
