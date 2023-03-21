@@ -6,7 +6,7 @@ Full stack developer & language aficionado.
 
 I am a solution-driven MERN stack Developer familiar with a wide range of programming utilities and
 languages, Knowledgeable of backend development requirements. I write clean code with best
-practices and models. Designed and developed web applications across multiple APIs, third-party integrations,and databases.
+practices and models. Designed and developed web applications across multiple API's, third-party integrations,and databases.
 
 * 🌍  I'm based in Pakistan.
 * ✉️  You can contact me at [shaffkhany@gmail.com](mailto:shaffkhany@gmail.com)
