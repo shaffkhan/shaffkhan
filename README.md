@@ -4,7 +4,7 @@ Hi 👋 My name is SHAFF KHAN.
 Full stack developer & language aficionado.
 --------------------
 
-I am a solution-driven MERN stack Developer familiar with a wide range of programming utilities and
+I am a solution driven MERN stack Developer familiar with a wide range of programming utilities and
 languages, Knowledgeable of backend development requirements. I write clean code with best
 practices and models. Designed and developed web applications across multiple API's, third-party integrations,and databases.
 
