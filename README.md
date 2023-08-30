@@ -9,7 +9,7 @@ languages, Knowledgeable of backend development requirements.I write clean code 
 practices and models. Designed and developed web applications across multiple API's, third-party integrations,and databases.
 
 * 🌍  I'm based in Pakistan.
-* ✉️  You can contact me at [shaffkhany@gmail.com](mailto:shaffkhany@gmail.com)
+* ✉️  You can contact me at [shaffkhany@gmail.com](mailto:shaffkhany@gmail.com).
 * 🤝  I'm open to collaborating on full stack web development , frontend development ( react JS , Next JS ) , backend development ( NodeJS , nestJS , mongoDB , MYSQL , postgresql)
 
 ### Skills
